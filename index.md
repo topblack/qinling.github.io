@@ -1,3 +1,7 @@
+---
+layout: post
+title: Index
+---
 <ul>
   {% for post in site.posts %}
   <li>
