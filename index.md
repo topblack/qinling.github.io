@@ -11,4 +11,4 @@ title: Index
   {% endfor %}
 </ul>
 
-@copyright qinling
+@copyright qinling, 2017
