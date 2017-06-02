@@ -25,7 +25,7 @@ https://chocolatey.org/packages
 choco install -y windows-sdk-7.1
 ## JDK8
 choco install -y jdk8
-# Git
+## Git
 choco install -y git
 
 # Issues
