@@ -2,6 +2,8 @@
 layout: post
 title: Index
 ---
+# qinling.io
+
 <ul>
   {% for post in site.posts %}
   <li>
@@ -9,3 +11,5 @@ title: Index
   </li>
   {% endfor %}
 </ul>
+
+@copyright qinling, 2017
