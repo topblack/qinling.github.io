@@ -22,3 +22,7 @@ Ctrl+alt+delete or Ctrl+alt+end(on remote desktop)
 # Restart/Shutdown Computer
 Restart-Computer
 Stop-Computer
+
+# Mount Image
+Mount-DiskImage -ImagePath <isoPath>
+Dismount-DiskImage
