@@ -13,10 +13,8 @@ The tool can encrypt a plain text or a file. During encryption, it saves encrypt
 
 # Encrypting Files
 ## Prerequisites
-
-Before following the examples in this guide, make sure you have already
-
-installed the Travis CI Command Line Client by running 
+**LINUX** Although you can run travis CLI under windows, the encryption command cannot work properly. The decryption would fail if the encryption was done under Windows.
+Before following the examples in this guide, make sure you have already installed the Travis CI Command Line Client by running 
 ```
 $ gem install travis
 ```
